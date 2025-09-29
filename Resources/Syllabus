@@ -1,0 +1,279 @@
+Course Syllabus
+Jump to Today
+BINF 2111/2111L - Introduction to Bioinformatics Computing
+
+Syllabus
+
+image.png
+
+Instructor: Richard Allen White III, Ph.D.
+
+Office Hours:
+
+T   12:45-1:45 pm EST
+
+TH 5:15-6:15 pm EST or by appointment.
+
+Contact: rwhit101@charlotte.edu 
+
+Office: Main Campus Charlotte - 420/424; NCRC Kannapolis (by appointment) - 3337
+
+ 
+
+Lab Instructor/Teaching Assistant: Andra Buchan
+
+Office Hours: By appointment.
+
+Contact: abuchan@charlotte.edu 
+
+Office: BINF 420
+
+ 
+
+Essential course details:
+
+Credits: 4 credit class
+
+Meeting times: T/TH 11:30-12:45 pm, TH lab 2:30-5:15 pm EST
+
+Office Hours: TH 5:15-6:15 pm EST or by appointment.
+
+Semester: FALL 2024 August 19th to December 4th
+
+Location: Main/Uptown Center Campus - Bioinformatics building 217
+
+Style of instruction: Face-to-face Instructional Method
+
+Textbooks: None required for this course
+
+Website for the course: https://github.com/raw-lab/BINF2111Links to an external site.
+
+CANVAS link: https://uncc.instructure.com/courses/221144
+
+Prerequisite: BINF1101/1101L
+
+ 
+
+Instructional Methods
+
+The course will be presented in a lecture format which will include the following elements as appropriate: presentation of concepts, theories and examples in a standard lecture format, interactive demonstrations of methods, and opportunities for student questions and discussion. Students will get hands on experience in UNIX, Bash, Sed/grep/bioawk, Github, Python programming and bioinformatics.
+
+ 
+
+Grading Plan
+
+Students will primarily be evaluated on their ability to successfully write assigned code. Understanding of bioinformatics workflows and programming core concepts presented in class will be assessed through short answer quizzes. Assignments and quizzes will be given weekly throughout the semester. The final examination will consist of both short answer questions and a coding exercise.
+
+ 
+
+Lab assignments: 30% (12 Lab assignments, 2.5% each, late assignments will NOT be graded, two lowest will be dropped)
+
+Daily Quizzes: 40% (two lowest scores will be dropped)
+
+Mid-term Exam: 10% (5% lecture/lab)
+
+Final Exam: 10% (5% lecture/lab)
+
+Classroom attendance/participation: 10%
+
+ 
+
+Zero credit lab must be taken concurrently with the course
+
+One grade for both BINF 2111 and 2111L
+
+ 
+
+Grading
+
+Grades are scaled on 100% total possible, where 100 to 90% is an A, 89 to 80% is a B, 79 to 70% is a C, 69 to 60% is a D, <59% is an F. Pass or No credit with a grade of satisfactory (S) or unsatisfactory (U) are available. To exercise this option, the student must declare their intention to take a Pass/No Credit option by completing the appropriate form at the Office of the Registrar by the end of the eighth calendar day in the semester; this form requires the approval of the chair of the student's major department. Courses completed with the grade of Honors or Pass will count toward the hours needed for graduation, but they will not be considered in the computation of the grade point average. For further information on grading policy, please refer to this website (https://provost.uncc.edu/policies-procedures/academic-policies-and-procedures/grading-undergraduate-effective-until-fall-2021Links to an external site.)
+
+Any grade in-between will be rounded to the next highest grade. For example, 89.1 or 89.6% would be an A. While grades are important and you should strive to get the highest marks. The knowledge you take with you and gain will last a lifetime.
+
+ 
+
+Extra credit
+
+Extra credit may be provided at the instructor's discretion. There are no guarantees of extra credit. It is not recommended to rely on extra credit to improve or pass the course.
+
+ 
+
+Academic integrity
+
+All students are required to read and abide by the Code of Student Academic Integrity. Violations of the Code of Student Academic Integrity, including plagiarism, will result in disciplinary action as provided in the Code. Definitions and examples of plagiarism are outlined in the Code. The Code is available from the Dean of Students Office or onlineLinks to an external site. (https://legal.uncc.edu/policies/up-407Links to an external site. ).        Exams and quizzes are closed notes. You cannot use prior notes, the web, manual page of the code, generative AI, or other during quizzes and exams this is prohibited.
+
+ 
+
+Generative AI (FM/LLM/NPL)
+
+Using generative AI in the form of foundation models (FMs) and their subset of FMs called large language models (LLMs) is prohibited during quizzes and exams. They can be used in labs and training for quizzes and exams. This includes examples chatgpt, bard, DALL-E, Midjourney, DeepMind, or other.
+
+ 
+
+Attendance
+
+Attendance and participation are critical to learning process and is required. Students are encouraged to work directly with the instructor regarding class absences for medical appointments, sickness, military/court orders, or personal and family emergencies, such as a death in the immediate family, where a student can provide an instructor with appropriate supporting documentation of the absence. Attendance is required for all classes and labs. If a student is not present during class, they will not be allowed to take that day's quiz. If a student is not present during lab, they will only receive half credit for the lab submission. Exceptions may be made at the discretion of the instructor.
+
+ 
+
+Instructor absences or tardiness
+
+If I am late in arriving to class, you must wait a full 20 minutes after the start of class before you may leave without being counted absent, or you must follow any written instructions I may give you about my anticipated tardiness. The instructor will provide a surrogate instructor on his behalf in an emergency, which will be announced via email, Canvas website and on the course website (https://github.com/raw-lab/BINF2111Links to an external site.).
+
+ 
+
+Withdrawing from the course
+
+Students are expected to complete all courses for which they are registered at the close of the add/drop period. If you are concerned about your ability to succeed in this course, it is essential to make an appointment to speak with the instructor as soon as possible. The University policy on withdrawal allows students only a limited number of opportunities available to withdraw from courses. You must understand the financial and academic consequences that may result from course withdrawal (https://provost.uncc.edu/policies-procedures/academic-policies-and-procedures/withdrawal-and-cancellation-enrollment-policyLinks to an external site.).
+
+ 
+
+An environment of non-discrimination and diversity
+
+All students and the instructor are expected to engage with each other respectfully. Unwelcome conduct directed toward another person based upon that person’s actual or perceived race, actual or perceived gender, color, religion, age, national origin, ethnicity, disability, or veteran status, or for any other reason, may constitute a violation of University Policy 406, The Code of Student Responsibility (https://legal.uncc.edu/policies/up-406Links to an external site.). Any student suspected of engaging in such conduct will be referred to the Office of Student Conduct.
+
+This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
+
+ 
+
+Mental healthcare and positive self-care
+
+Mental health concerns or stressful events may reduce your ability to participate in daily activities or diminish academic performance. It is common for college students to experience challenges that may interfere with academic success, such as academic stress, sleep problems, juggling responsibilities, life events, relationship concerns, or feelings of anxiety, hopelessness, or depression. If you or a friend is struggling, we strongly encourage you to seek support. Helpful, effective resources are available on campus at no additional cost. You can learn more about the broad range of confidential mental health services available on campus via the Counseling and Psychological Services (CAPS) website at https://caps.uncc.edu/Links to an external site..
+
+ 
+
+Title IX reporting of sexual harassment or other related reporting
+
+UNC Charlotte is committed to providing an environment free of all forms of discrimination and sexual harassment, including sexual assault, domestic violence, dating violence, and stalking. If you (or someone you know) have experienced or experiences any of these incidents, know that you are not alone. UNC-Charlotte has staff members trained to support you in navigating campus life, accessing health and counseling services, providing academic and housing accommodations, helping with civil protective orders, and more.
+
+Please be aware that all UNC Charlotte employees, including faculty members, are expected to relay any information or reports of sexual misconduct they receive to the Title IX Coordinator. This means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, the instructor is expected to report the information to the Title IX Coordinator (https://cm.maxient.com/reportingform.php?UNCCharlotte&layout_id=125Links to an external site.). Although the instructor expected to report the situation, you will still have options about how your case will be handled, including whether or not you wish to pursue a formal complaint. Our goal is to make sure you are aware of the range of options available to you and have access to the resources you need.
+
+If you wish to speak to someone confidentially, you can contact the following on-campus resources, which are not required to report the incident to the Title IX Coordinator: (1) University Counseling Center (counselingcenter.uncc.edu 7-0311); or (2) Student Health Center (studenthealth.uncc.edu 7-7400). Additional information about your options is also available at titleix.uncc.edu under the “Students” tab.
+
+ 
+
+Disability accommodations
+
+Students in this course seeking accommodations for disabilities must first consult with the Office of Disability Services and follow the instructions of that Office for obtaining accommodations. Accommodations will be provided to students presenting documentation from the Office Of Disability Services (ODS). Please check the ODS website (https://ds.uncc.edu/Links to an external site.) for more details.
+
+ 
+
+FERPA Notification
+
+In establishing University Policy 402, Student Education Records, UNC Charlotte adheres to a policy of compliance with the Family Educational Rights and Privacy Act of 1974, also known as FERPA. This federal law affords students the following rights concerning their education records. For details, see the FERPA Annual Notification posted on the Office of Legal Affairs website. All questions concerning this FERPA Annual Notification may be directed to the Office of the Registrar's attention.
+
+ 
+
+Religious Accommodation for Students
+
+UNC Charlotte makes good faith efforts to accommodate a student’s religious practice or belief, unless such accommodation would create undue hardship.  In addition, under North Carolina law (NC General Statute 116-11(3a)Links to an external site.), UNC Charlotte is required to (1) authorize a minimum of two excused absences each academic year for religious observances required by the faith of a student; and (2) provide students the opportunity to make up any tests or other work missed due to an excused absence for a religious observance. Students must request such reasonable accommodations in accordance with the procedures in this Policy.  An accommodation request imposes responsibilities and obligations on both the University and the student requesting the accommodation.  
+
+ 
+
+Course Calendar
+
+The course calendar represents a tentative plan. Topics will be adjusted as the instructor sees to do so based on the comprehension and mastery of the material of the students.
+
+ 
+
+COURSE CALENDAR (Tentative Plan)
+
+ 
+
+Week 1 (Aug 19th) Introduction to UNIX and command line
+
+ 
+
+Week 2 (Aug 26th) UNIX commands (cut, grep, etc)
+
+ 
+
+Week 3 (Sep 2nd) Sed/grep/bioawk file manipulation
+
+ 
+
+Week 4 (Sep 9th) Regular expressions
+
+ 
+
+Week 5 (Sep 16th) Bash shell scripting basic, Bash shell/slurm - SuperCPU operations
+
+ 
+
+Week 6 (Sep 23rd) Github introduction and markdown
+
+ 
+
+Week 7 (Sep 30th) Mid-term Exam
+
+ 
+
+Week 8 (Oct 7th) No Classes - Student Recess
+
+ 
+
+Week 9 (Oct 14th) Basic Python Commands 
+
+ 
+
+Week 10 (Oct 21st)  Python loops, lists, and basic file methods
+
+ 
+
+Week 11 (Oct 28th) Python functions, dictionaries, regular expressions
+
+ 
+
+Week 12 (Nov 4th) Python - Pandas and Seaborn
+
+ 
+
+Week 13 (Nov 11th) Rust Introduction
+
+ 
+
+Week 14 (Nov 18th) Review of course 
+
+ 
+
+Week 15 (Nov 25th) No Classes - Thanksgiving
+
+ 
+
+Week 16 (Dec 2nd) Final Exam or Review course
+
+ 
+
+Final exam TBD
+
+ 
+
+Course Summary:
+Date	Details	Due
+Tue Aug 19, 2025	Assignment Lecture Quiz 1	due by 12:45pm
+Thu Aug 21, 2025	Assignment Lecture Quiz 2	due by 12:45pm
+Tue Aug 26, 2025	Assignment Lecture Quiz 3	due by 12:45pm
+Thu Aug 28, 2025	Assignment Lab Assignment 1	due by 11:30am
+Assignment Lecture Quiz 4	due by 11:45am
+Assignment Midterm/Final project idea	due by 11:59pm
+Thu Sep 4, 2025	Assignment Lab Assignment 2	due by 11:30am
+Assignment Lecture Quiz 6	due by 12:45pm
+Tue Sep 9, 2025	Assignment Lecture Quiz 7	due by 12:45pm
+Thu Sep 11, 2025	Assignment Lab Assignment 3	due by 11:30am
+Assignment Lab Quiz 3	due by 11:30am
+Assignment Lecture Quiz 8	due by 12:45pm
+Tue Sep 16, 2025	Assignment Lecture Quiz 9	due by 12:45pm
+Thu Sep 18, 2025	Assignment Lab Assignment 4	due by 11:30am
+Assignment Lab Quiz 4	due by 11:30am
+Assignment Lecture Quiz 10	due by 12:45pm
+Tue Sep 23, 2025	Assignment Lecture Quiz 11	due by 12:45pm
+Thu Sep 25, 2025	Assignment Lab Assignment 5	due by 11:30am
+Assignment Lab Quiz 5	due by 11:30am
+Assignment Lecture Quiz 12	due by 12:45pm
+Tue Sep 30, 2025	Assignment Lecture Quiz 13	due by 12:45pm
+Thu Oct 2, 2025	Assignment Lab Assignment 6	due by 11:30am
+Assignment Lab Quiz 6	due by 11:30am
+Thu Oct 16, 2025	Assignment Midterm: Progress Report	due by 11:59pm
+Assignment Lab Quiz 1	 
+Assignment Lab Quiz 2	 
+Assignment Lecture Quiz 5	 
